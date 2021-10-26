@@ -61,6 +61,7 @@ export default {
             this.showOptions = true;
             this.pokemonArray =[];
             this.Pokeminaleatorio =null;
+            this.showPokemons = false;
             this.getPokemonsRandom();
         }
     },
